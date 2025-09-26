@@ -1,6 +1,7 @@
 # 🎮 Tic Tac Toe - Professional Implementation
 
-![Tic Tac Toe Preview](https://placehold.co/800x400/667eea/ffffff?text=Tic+Tac+Toe+Game)
+<img width="1117" height="562" alt="لقطة الشاشة 2025-09-26 092841" src="https://github.com/user-attachments/assets/ddbc2154-a0fe-431d-b25e-00d4e785e554" />
+<img width="732" height="843" alt="لقطة الشاشة 2025-09-26 092917" src="https://github.com/user-attachments/assets/125f3fa3-e5bf-4941-b80e-919c6b68d1b9" />
 
 A meticulously crafted Tic Tac Toe implementation showcasing modern JavaScript architecture patterns and professional frontend development practices.
 
